@@ -7,7 +7,7 @@ Format:
 - [name](link) - [description ...][punctuation]
 ^   ^     ^    ^        ^               ^
 │   │     │    │        │               │
-│   │     │    │        │               └---- a punctuation [important for CI]
+│   │     │    │        │               └---- a punctuation (usually ".")
 │   │     │    │        └---- A short, crisp description of your project
 │   │     │    └---- dash separator ("-")
 │   │     └---- link to your project
