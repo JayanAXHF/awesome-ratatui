@@ -53,7 +53,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 ### 🧩 Widgets
 
 - [edtui](https://github.com/preiter93/edtui) - A TUI based vim-inspired editor widget for ratatui.
-- [hyperrat](https://github.com/JayanAXHF/gitv/tree/main/crates/hyperrat) - An OSC 8 link widget for ratatui that doesn't break your UI.
+- [hyperrat](https://github.com/JayanAXHF/gitv/tree/main/crates/hyperrat) - An OSC 8 link widget for ratatui
 - [ratatui-explorer](https://github.com/tatounee/ratatui-explorer) - A simple library for creating file explorer for ratatui.
 - [ratatui-image](https://crates.io/crates/ratatui-image) - An image widget for ratatui, supporting sixels and unicode-halfblocks.
 - [ratatui-fretboard](https://crates.io/crates/ratatui-fretboard) - A widget for displaying musical note positions on a fretboard.
