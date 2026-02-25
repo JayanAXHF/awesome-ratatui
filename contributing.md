@@ -9,7 +9,7 @@ Format:
 │   │     │    │        │               │
 │   │     │    │        │               └---- a punctuation [important for CI]
 │   │     │    │        └---- A short, crisp description of your project
-│   │     │    └---- dash separator (don't use a `'`)
+│   │     │    └---- dash separator ("-")
 │   │     └---- link to your project
 │   └---- name of your project
 └---- dash for the list
